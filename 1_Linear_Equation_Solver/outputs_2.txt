@@ -1,0 +1,8 @@
+Enter the first equation:
+Enter the second equation:
+Equations in the simplified form:
+2x+0y=6
+-2x-1y=12
+Solution:
+x=3
+y=-18

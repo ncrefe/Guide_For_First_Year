@@ -1,0 +1,8 @@
+Enter the first equation:
+Enter the second equation:
+Equations in the simplified form:
+3x+2y=13
+5x-4y=7
+Solution:
+x=3
+y=2
